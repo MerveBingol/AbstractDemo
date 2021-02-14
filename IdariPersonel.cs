@@ -4,6 +4,7 @@ using System.Text;
 
 namespace AbstractDemo
 {
+   
     class IdariPersonel : Calisan
     {
         public int IdariPersonelMaas = 800;
