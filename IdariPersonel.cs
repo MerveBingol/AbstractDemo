@@ -14,7 +14,7 @@ namespace AbstractDemo
 
         public override int MaasHesapla()
         {
-            return IdariPersonelMaas;
+            return IdariPersonelMaas; 
         }
     }
 }

@@ -13,7 +13,7 @@ namespace AbstractDemo
         }
         public override string kimimBen()
         {
-            return "Tezgahtar";
+            return "Tezgahtar"; 
         }
 
         public override int MaasHesapla()

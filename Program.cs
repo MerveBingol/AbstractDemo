@@ -3,7 +3,7 @@
 namespace AbstractDemo
 {
     class Program
-    {
+    { 
         /* Bir giyim mağazasında çalışan kişilerin maaşlarını ekrana yazdıran bir program yazacağız.
         Çalışanların maaşları, görevlerine göre farklı şekillerde hesaplanıyor. 
         Müdür: Aylık 20000 Tl maaş + prim ile çalışıyor.Prim ise toplam satış tutarına göre hesaplanıyor.
