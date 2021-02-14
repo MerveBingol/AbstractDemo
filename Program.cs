@@ -6,7 +6,7 @@ namespace AbstractDemo
     {
         /* Bir giyim mağazasında çalışan kişilerin maaşlarını ekrana yazdıran bir program yazacağız.
         Çalışanların maaşları, görevlerine göre farklı şekillerde hesaplanıyor. 
-        Müdür: Aylık 2000 Tl maaş + prim ile çalışıyor.Prim ise toplam satış tutarına göre hesaplanıyor.
+        Müdür: Aylık 20000 Tl maaş + prim ile çalışıyor.Prim ise toplam satış tutarına göre hesaplanıyor.
         O ayki tutarın 20.000 TL yi geçmesi durumunda ,20.000 TL den fazla olan miktarın % 10 u kadar prim alıyor.
         
         Tezgahtar: Prim ile çalışıyor. Yaptığı aylık toplam satışın %10 u kadar prim alıyor.

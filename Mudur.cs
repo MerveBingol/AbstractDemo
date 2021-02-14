@@ -6,7 +6,7 @@ namespace AbstractDemo
 {
      public class Mudur : Calisan
     {
-       public  int Maas = 2000;
+       public  int Maas = 20000;
        public int PrimLimit = 20000;
         private int Satis = 37000;
 
