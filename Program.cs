@@ -63,14 +63,14 @@ namespace AbstractDemo
                 "Maaşı : " + idariPersonel.MaasHesapla() + " TL");
 
             Console.WriteLine("\n----------------------İdari Personel 2--------------------------------\n");
-            Calisan idariPersone2 = new IdariPersonel();
-            idariPersone2.Ad = "Kemal";
-            idariPersone2.Soyad = "BEY";
-            idariPersone2.kimimBen();
-            idariPersone2.MaasHesapla();
+            Calisan idariPersonel2 = new IdariPersonel();
+            idariPersonel2.Ad = "Kemal";
+            idariPersonel2.Soyad = "BEY";
+            idariPersonel2.kimimBen();
+            idariPersonel2.MaasHesapla();
 
-            Console.WriteLine(idariPersonel.kimimBen()+"\n" + "Ad : " + idariPersonel.Ad +"\n" + "Soyad : " + idariPersonel.Soyad + "\n"+
-                "Maaşı : " + idariPersonel.MaasHesapla()+ " TL");
+            Console.WriteLine(idariPersonel2.kimimBen()+"\n" + "Ad : " + idariPersonel2.Ad +"\n" + "Soyad : " + idariPersonel2.Soyad + "\n"+
+                "Maaşı : " + idariPersonel2.MaasHesapla()+ " TL");
         }
     }
 }
